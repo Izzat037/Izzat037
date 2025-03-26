@@ -4,8 +4,6 @@
 
 🌱 I’m currently learning Kotlin, Android app development, and how to build a data analyst portfolio
 
-💞️ I’m looking to collaborate on app development projects, especially related to Islamic tools or data-driven solutions
-
 📫 How to reach me: izzatsamsuddin@gmail.com
 
 😄 Pronouns: He/Him
