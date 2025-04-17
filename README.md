@@ -2,7 +2,7 @@
 
 👀 I’m interested in software engineering, data analysis, and cybersecurity
 
-🌱 I’m currently learning Kotlin, Android app development, and how to build a data analyst portfolio
+🌱 Right now, I’m leveling up in JavaScript and Node.js, learning how to build real, working websites that actually do stuff — not just look pretty.
 
 📫 How to reach me: izzatsamsuddin@gmail.com
 
